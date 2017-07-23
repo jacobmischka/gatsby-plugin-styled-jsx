@@ -1,0 +1,12 @@
+{
+  "name": "@jacobmischka/gatsby-plugin-styled-jsx",
+  "version": "1.0.0",
+  "description": "Adds styled-jsx to babelrc plugins",
+  "main": "gatsby-node.js",
+  "repository": "git+https://github.com/jacobmischka/gatsby-plugin-styled-jsx.git",
+  "author": "Jacob Mischka <jacob@mischka.me>",
+  "license": "MIT",
+  "dependencies": {
+    "styled-jsx": "^1.0.9"
+  }
+}
